@@ -88,3 +88,4 @@ $ create bob@company.com
 > updates all-hands
 Account bob@company.com cannot create high priority events.   ← staff role restriction
 ```
+
